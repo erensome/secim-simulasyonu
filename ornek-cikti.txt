@@ -1,0 +1,105 @@
+Parti adı giriniz: A
+Parti adı giriniz: B
+Parti adı giriniz: C
+Parti adı giriniz: D
+Parti adı giriniz: E
+Parti adı giriniz: F
+Parti adı giriniz: G
+Parti adı giriniz: H
+
+Şehir adı giriniz: 1
+Şehrin milletvekili sayısını giriniz: 7
+A partisi için oy sayısı giriniz: 3292
+B partisi için oy sayısı giriniz: 2396
+C partisi için oy sayısı giriniz: 1900
+D partisi için oy sayısı giriniz: 2531
+E partisi için oy sayısı giriniz: 2000
+F partisi için oy sayısı giriniz: 1255
+G partisi için oy sayısı giriniz: 12
+H partisi için oy sayısı giriniz: 723
+
+Şehir adı giriniz: 2
+Şehrin milletvekili sayısını giriniz: 2
+A partisi için oy sayısı giriniz: 658
+B partisi için oy sayısı giriniz: 269
+C partisi için oy sayısı giriniz: 151
+D partisi için oy sayısı giriniz: 242
+E partisi için oy sayısı giriniz: 301
+F partisi için oy sayısı giriniz: 3
+G partisi için oy sayısı giriniz: 11
+H partisi için oy sayısı giriniz: 325
+
+Şehir adı giriniz: 3
+Şehrin milletvekili sayısını giriniz: 4
+A partisi için oy sayısı giriniz: 1110
+B partisi için oy sayısı giriniz: 2045
+C partisi için oy sayısı giriniz: 480
+D partisi için oy sayısı giriniz: 123
+E partisi için oy sayısı giriniz: 76
+F partisi için oy sayısı giriniz: 542
+G partisi için oy sayısı giriniz: 91
+H partisi için oy sayısı giriniz: 655
+
+
+1 şehri için sonuçlar
+Milletvekili Kontenjanı: 7
+Geçerli Oy Sayısı: 14109
+                 Oy Sayısı       Oy Yüzdesi      Mv Sayisi
+                 ---------       ----------      ---------
+A Partisi        3292            23,33           2
+D Partisi        2531            17,94           2
+B Partisi        2396            16,98           1
+E Partisi        2000            14,18           1
+C Partisi        1900            13,47           1
+F Partisi        1255            8,90            0
+H Partisi        723             5,12            0
+G Partisi        12              0,09            0
+
+2 şehri için sonuçlar
+Milletvekili Kontenjanı: 2
+Geçerli Oy Sayısı: 1960
+                 Oy Sayısı       Oy Yüzdesi      Mv Sayisi
+                 ---------       ----------      ---------
+A Partisi        658             33,57           2
+H Partisi        325             16,58           0
+E Partisi        301             15,36           0
+B Partisi        269             13,72           0
+D Partisi        242             12,35           0
+C Partisi        151             7,70            0
+G Partisi        11              0,56            0
+F Partisi        3               0,15            0
+
+3 şehri için sonuçlar
+Milletvekili Kontenjanı: 4
+Geçerli Oy Sayısı: 5122
+                 Oy Sayısı       Oy Yüzdesi      Mv Sayisi
+                 ---------       ----------      ---------
+B Partisi        2045            39,93           2
+A Partisi        1110            21,67           1
+H Partisi        655             12,79           1
+F Partisi        542             10,58           0
+C Partisi        480             9,37            0
+D Partisi        123             2,40            0
+G Partisi        91              1,78            0
+E Partisi        76              1,48            0
+
+Ülke Geneli İstatistikler
+Milletvekili Kontenjanı: 13
+Toplam Geçerli Oy Sayısı: 21191
+                 Oy Sayısı       Oy Yüzdesi      Mv Sayısı       Mv Yüzdesi
+                 ---------       ----------      ---------       ----------
+A Partisi        5060            23,88           5               38,46
+B Partisi        4710            22,23           3               23,08
+D Partisi        2896            13,67           2               15,38
+C Partisi        2531            11,94           1               7,69
+E Partisi        2377            11,22           1               7,69
+F Partisi        1800            8,49            0               0,00
+H Partisi        1703            8,04            1               7,69
+G Partisi        114             0,54            0               0,00
+
+İktidar partisi A partisidir.
+Ana muhalefet partisi B partisidir.
+
+Partilerin Oy Sayılarına Göre İl Birincilikleri
+A: 2
+B: 1
